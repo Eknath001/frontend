@@ -1,0 +1,141 @@
+{
+  "hero": {
+    "title": "About Our Blog",
+    "subtitle": "We're a team of passionate writers and experts sharing knowledge and insights about technology, design, and innovation.",
+    "brochureUrl": "/sample-brochure.pdf"
+  },
+  "intro": {
+    "img": "public/pixabay.jpg",
+    "paragraphs": [
+      "Founded in 2020, our blog has grown from a small personal project to a collaborative platform with writers from around the world.",
+      "We focus on **quality content** that's both informative and practical, helping our readers stay up-to-date with the latest trends and developments in technology.",
+      "Our mission is to make complex topics accessible to everyone, from beginners to experts, and build a community of lifelong learners."
+    ],
+    "videoUrl": ""
+  },
+  "audience": [
+    {
+      "emoji": "👩‍💻",
+      "title": "Tech Professionals",
+      "desc": "Developers, designers, and IT professionals looking to expand their knowledge and stay current with industry trends."
+    },
+    {
+      "emoji": "🎓",
+      "title": "Students",
+      "desc": "Those studying computer science, design, or related fields who want practical insights beyond their coursework."
+    },
+    {
+      "emoji": "🚀",
+      "title": "Startup Founders",
+      "desc": "Entrepreneurs seeking to understand technology choices and implementation strategies for their businesses."
+    },
+    {
+      "emoji": "🔍",
+      "title": "Curious Minds",
+      "desc": "Anyone interested in learning about how technology shapes our world and future possibilities."
+    }
+  ],
+  "stats": [
+    {
+      "number": "500",
+      "label": "Published Articles"
+    },
+    {
+      "number": "250K",
+      "label": "Monthly Readers"
+    },
+    {
+      "number": "15",
+      "label": "Expert Contributors"
+    }
+  ],
+  "coreValues": [
+    {
+      "emoji": "🔍",
+      "title": "In-Depth Research",
+      "desc": "We believe in thorough research and fact-checking to provide accurate and reliable information."
+    },
+    {
+      "emoji": "🧩",
+      "title": "Practical Solutions",
+      "desc": "Our content focuses on real-world applications and actionable insights you can implement today."
+    },
+    {
+      "emoji": "🌟",
+      "title": "Quality Over Quantity",
+      "desc": "We prioritize well-crafted, thoughtful content over publishing frequency."
+    }
+  ],
+  "team": [
+    {
+      "name": "Alex Morgan",
+      "role": "Founder & Editor-in-Chief",
+      "desc": "Former software engineer with 10+ years of experience in tech journalism.",
+      "img": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1061&q=80",
+      "socials": {
+        "twitter": "https://twitter.com",
+        "linkedin": "https://linkedin.com",
+        "github": "https://github.com"
+      }
+    },
+    {
+      "name": "Jamie Chen",
+      "role": "Senior Technical Writer",
+      "desc": "Specializes in cloud computing and infrastructure topics.",
+      "img": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "socials": {
+        "twitter": "https://twitter.com",
+        "linkedin": "https://linkedin.com",
+        "github": "https://github.com"
+      }
+    },
+    {
+      "name": "Taylor Wilson",
+      "role": "UX/UI Content Specialist",
+      "desc": "Designer turned writer with a passion for user experience.",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+      "socials": {
+        "twitter": "https://twitter.com",
+        "linkedin": "https://linkedin.com",
+        "github": "https://github.com"
+      }
+    }
+  ],
+  "testimonials": [
+    {
+      "testimonial": "This blog has become my go-to resource for staying updated on tech trends. The articles are well-researched and always provide practical insights I can apply to my work.",
+      "name": "Sarah K., Software Developer"
+    },
+    {
+      "testimonial": "As someone new to programming, I appreciate how the writers break down complex topics into understandable chunks. It's helped me progress much faster in my learning journey.",
+      "name": "Michael L., CS Student"
+    },
+    {
+      "testimonial": "The quality of content here is exceptional. You can tell the team puts real effort into creating valuable articles rather than churning out shallow content for clicks.",
+      "name": "Priya M., Tech Lead"
+    }
+  ],
+  "faq": [
+    {
+      "question": "How often do you publish new articles?",
+      "answer": "We publish 3-4 new articles each week, typically on Monday, Wednesday, and Friday. We focus on quality rather than quantity, ensuring each piece provides real value to our readers."
+    },
+    {
+      "question": "Can I contribute as a guest writer?",
+      "answer": "Absolutely! We welcome guest contributions from experts in technology, design, and related fields. Please visit our 'Write for Us' page for submission guidelines and requirements."
+    },
+    {
+      "question": "Do you offer a newsletter?",
+      "answer": "Yes, our weekly newsletter delivers our latest articles and exclusive insights directly to your inbox every Sunday. You can subscribe using the form at the bottom of this page."
+    },
+    {
+      "question": "How can I support the blog?",
+      "answer": "The best ways to support us are by sharing our articles, subscribing to our newsletter, engaging with our content through comments, and considering our premium membership if our content has been valuable to you."
+    }
+  ],
+  "finalMessage": {
+    "heading": "Let's Connect",
+    "message": "We love hearing from our readers and are always open to feedback, suggestions, and collaboration opportunities. Don't hesitate to reach out—we're just an email away!",
+    "email": "contact@techblogexample.com"
+  }
+}
