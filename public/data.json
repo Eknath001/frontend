@@ -1,8 +1,7 @@
 {
   "hero": {
     "title": "About Our Blog",
-    "subtitle": "We're a team of passionate writers and experts sharing knowledge and insights about technology, design, and innovation.",
-    "brochureUrl": "/sample-brochure.pdf"
+    "subtitle": "We're a team of passionate writers and experts sharing knowledge and insights about technology, design, and innovation."
   },
   "intro": {
     "img": "public/pixabay.jpg",
